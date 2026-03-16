@@ -1,4 +1,4 @@
-#include <Stdio.h>
+#include <stdio.h>
 
 int main() {
     unsigned int x = 0x12345678;
